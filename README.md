@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @avellma
-- 👀 I’m interested in learning about Home Automation
+- 👋 Hi, I’m Miguel
+- 👀 I’m interested in expanding my knowledge in Smart Home Automation
 - 🌱 I’m currently learning Architecture Design at MIT
 - 💞️ I’m looking forward to collaborate in this site 
 - 📫 How to reach me ...miguel.a.avello@gmail.com
